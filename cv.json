@@ -1,0 +1,293 @@
+{
+    "basics": {
+      "name": "Ferney Alexander Figueroa Vasquez",
+      "label": "Junior Developer con más de un año de experiencia en el desarrollo de aplicaciones web, tanto en el frontend como en el backend.",
+      "image": "/photo2.webp",
+      "email": "alezfigueroa@hotmail.com",
+      "phone": "+57 3122304465",
+      "url": "",
+      "summary": "Tecnólogo en Análisis y Desarrollo de Sistemas de Información (ADSI) con más de un año de experiencia en el desarrollo de aplicaciones web, he tenido la oportunidad de trabajar en proyectos emocionantes que me han permitido expandir mis habilidades y conocimientos. Durante este tiempo, he adquirido experiencia en el uso de tecnologías fundamentales como HTML, CSS y JavaScript, así como en el manejo de frameworks modernos como Vue.js 3 y React. Además, cuento con experiencia en el uso de Bootstrap 5 y Tailwind CSS, herramientas populares para el desarrollo de interfaces de usuario responsivas y atractivas. Estoy comprometido con el aprendizaje continuo y la mejora constante de mis habilidades para ofrecer soluciones de calidad en el desarrollo de software.",
+      "location": {
+        "address": "",
+        "postalCode": "190001",
+        "city": "Popayán - Cauca",
+        "countryCode": "ES",
+        "region": "Colombia"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "www.linkedin.com/in/ferney-alexander-figueroa-vasquez-bba521281",
+          "url": "https://www.linkedin.com/in/ferney-figueroa/"
+        },
+       
+        {
+          "network": "GitHub",
+          "username": "Ferney Figueroa",
+          "url": "https://github.com/FerneyFigueroa"
+        }
+      ]
+    },
+    "work": [
+    
+      
+      {
+        "name": "VIRTUALRED",
+        "position": "Junior FrontEnd y BackEnd",
+        "startDate": "2022-03-01",
+        "endDate":"2025-01-01",
+        "summary": "Diseñé y desarrollé una página web utilizando Vue.js 3 como el principal framework para crear componentes interactivos y dinámicos. Implementé un diseño responsivo con Bootstrap 5 y utilicé Firebase como base de datos en tiempo real, con Firestore para almacenar datos y Firebase Authentication para la autenticación de usuarios. Además, empleé Vuex como gestor de estados para mantener la coherencia y la integridad de los datos en la aplicación. Logré desarrollar una página web funcional y receptiva que permitía a los usuarios registrarse, iniciar sesión y acceder a su información de forma segura.",
+        "highlights": [
+          ""
+        ]
+      },
+      {
+        "name": "SINTAPUJOS",
+        "position": "FrontEnd y BackEnd",
+        "startDate": "2022-03-01",
+        "endDate":"2024-01-01",
+        "summary": "Desarrollado como parte del programa de aprendizaje en el SENA, consiste en una aplicación web diseñada específicamente para los aprendices, con el propósito de fomentar la educación sexual y proporcionar un acompañamiento integral con bienestar al aprendiz.Se han utilizado tecnologías modernas como Vue.js para la interfaz interactiva, Bootstrap 5 para un diseño responsivo y atractivo, SweetAlert para notificaciones amigables y Node.js junto con MySQL para la gestión de datos y la funcionalidad del backend.",
+        "highlights": [
+          ""
+        ]
+      }
+    ],
+    "volunteer": [{
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }],
+    "education": [{
+      "institution": "SENA regional cauca  Centro de Teleinformática y producción Industrial",
+      "institution2": "SENA regional cauca  Centro de Teleinformática y producción Industrial",
+      "url": "https://oferta.senasofiaplus.edu.co/sofia-oferta/certificaciones.html",
+      "area": "TÉCNICO EN INSTALACION DE REDES HIBRIDAS DE FIBRA OPTICA Y COAXIAL",
+      "area1": "TECNÓLOGO  EN ANALISIS Y DESARROLLO DE SISTEMAS DE INFORMACION A.D.S.I",
+      "studyType": "Bachelor",
+      "startDate": "2015-01-01",
+      "endDate": "2016-01-01",
+
+      "startDate1": "2023-01-01",
+      "endDate1": "2025-01-01",
+      "score": "4.0",
+      "courses": [
+        ""
+      ]
+    }],
+
+
+    "education2": [{
+
+      "institution": "SENA regional cauca  Centro de Teleinformática y producción Industrial",
+      "institution2": "Udemy",
+      "url": "https://oferta.senasofiaplus.edu.co/sofia-oferta/certificaciones.html",
+      "area": "CURSO ESPECIAL EN DESARROLLO DE APLICACIONES WEB EN TIEMPO REAL CON JAVASCRIPT Y NODE.JS",
+      "sena2":"CURSO ESPECIAL EN DISEÑO DE SITIOS WEB",
+      "sena3":"CURSO ESPECIAL EN BOOTCAMP DE INTELIGENCIA ARTIFICIAL CON MICROSOFT AZURE",
+      
+      "sena4":"CURSO ESPECIAL EN APLICACION DE LA METODOLOGIA SCRUM PARA PROYECTOS DE DESARROLLO DE SOFTWARE",
+
+      "udemy": "PROGRAMACIÓN PARA PRICIPIANTES PRIMEROS PASOS - FERNANDO HERRERA",
+      "udemy1": "JAVA SCRIPT MODERNO: GUÍA PARA DOMINAR EL LENGUAJE - FERNANDO HERRERA",
+      "udemy2": "LEGACY - NODE: DE CERO A EXPERTO - FERNANDO HERRERA",
+      "udemy3": "VUE.JS: DE CERO A EXPERTO - FERNANDO HERRERA",
+  
+      "studyType": "Bachelor",
+      "startDate": "2023-01-01",
+      "endDate": "2024-01-01",
+
+      "startDate1": "2023-01-01",
+      "endDate1": "2024-01-01",
+      "score": "4.0",
+      "courses": [
+        ""
+      ]
+    }],
+    
+    "awards": [{
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }],
+    "certificates": [{
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }],
+    "publications": [{
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }],
+    "skills": [
+      {
+        "name": "HTML",
+        "level": "",
+        "keywords": [
+          "Desarrollo Web", "Frontend"
+        ]
+      },
+      {
+        "name": "CSS",
+        "level": "",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Diseño Responsive"
+        ]
+      },
+      {
+        "name": "JavaScript",
+        "level": "",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Backend", ""
+        ]
+      },
+      {
+        "name": "Tailwind",
+        "level": "",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+        ]
+      },
+      {
+        "name": "TypeScript",
+        "level": "",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+        ]
+      },
+      {
+        "name": "Node",
+        "level": "",
+        "keywords": [
+          "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+        ]
+      },
+      {
+        "name": "MySQL",
+        "level": "",
+        "keywords": [
+          "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+        ]
+      },
+      
+      
+      {
+        "name": "Git",
+        "level": "",
+        "keywords": [
+          "Control de Versiones", "Colaboración"
+        ]
+      },
+      {
+        "name": "GitHub",
+        "level": "",
+        "keywords": [
+          "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+        ]
+      },
+      {
+        "name": "Bootstrap",
+        "level": "",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Framework"
+        ]
+      },
+      {
+        "name": "React",
+        "level": "",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        ]
+      },
+
+      {
+        "name": "Vue3",
+        "level": "",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "JavaScript Library", "Vue3"
+        ]
+      },
+      {
+        "name": "Mongodb",
+        "level": "",
+        "keywords": [
+          "Bases de Datos", "", "Almacenamiento de Datos", "Backend"
+        ]
+      },
+      {
+        "name": "Firebase",
+        "level": "",
+        "keywords": [
+          "Bases de Datos", "", "Almacenamiento de Datos", "Backend"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Spanish",
+        "fluency": "Con interés en aprender a nivel conversacional"
+      },
+      {
+        "language": "English",
+        "fluency": "Con interés en aprender a nivel conversacional"
+      }
+    ],
+    "interests": [{
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }],
+    "references": [{
+      "name": "Julian Pulido",
+      "reference": "+57 3117380377"
+    }],
+
+    "projects": [
+      {
+        "name": "VIRTUALRED",
+        "isActive": true,
+        "description": "Aplicación web diseñada para facilitar la gestión de servicios de internet y televisión.",
+        "highlights": [
+          "Realizada en Vue3 con gestor de estados en Vuex ",
+          "Bd con FireBase",
+          "Framework de diseño Bootstrap5",
+          "JavaScript,Nodejs",
+          "En desarrollo"
+        ],
+        "url": "https://virtualred-unired.netlify.app"
+      },
+      {
+        "name": "SINTAPUJOS",
+        "isActive": true,
+        "description": "Aplicación web diseñada específicamente para los aprendices, con el propósito de fomentar la educación sexual ",
+        "highlights": [
+          "Desarrollada Vue3, gestor de estados con Vuex,",
+          "Framework de diseño Bootstrap5",
+          "Bd con Mysql,",
+          "JavaScript,Nodejs,express ",
+          "En desarrollo"
+        ],
+        "url": "https://sintapujos2.netlify.app"
+      }
+     
+
+      
+      
+      
+      
+      
+    ]
+  }
+  

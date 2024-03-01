@@ -1,0 +1,157 @@
+---
+import Section from "../Section.astro"
+
+import { education,education2 } from "@cv"
+---
+
+<Section title="Educación">
+  <ul>
+    {
+      education.map(({ institution, startDate, endDate,  startDate1, endDate1, area ,institution2, area1}) => {
+        const startYear = new Date(startDate,).getFullYear()
+        const startYear1 = new Date(startDate1,).getFullYear()
+        const endYear =
+          endDate != null ? new Date(endDate,).getFullYear() : "Actual"
+          const endYear1 =
+          endDate != null ? new Date(endDate1,).getFullYear() : "Actual"
+
+        const years = `${startYear} - ${endYear}`
+        const years1 = `${startYear1} - ${endYear1}`
+
+        
+
+        return (
+          <li>
+            <article>
+             
+
+              <header>
+                <div>
+                  <h3>{institution}</h3>
+                </div>
+
+                <time>{years}</time>
+              </header>
+
+              <footer>
+                <p>{area}</p>
+              </footer>
+
+              <header>
+                <div>
+                  <h3>{institution2}</h3>
+                </div>
+
+                <time>{years1}</time>
+              </header>
+
+              <footer>
+                <p>{area1}</p>
+              </footer>
+            </article>
+          </li>
+        )
+      })
+    }
+  </ul>
+</Section>
+
+<Section title="Educación Complementaria">
+  <ul>
+    {
+      education2.map(({ institution, startDate, endDate,  startDate1, endDate1, area ,sena,sena1,sena2,sena3,sena4,sena5,institution2, udemy,udemy1,udemy2,udemy3}) => {
+        const startYear = new Date(startDate,).getFullYear()
+        const startYear1 = new Date(startDate1,).getFullYear()
+        const endYear =
+          endDate != null ? new Date(endDate,).getFullYear() : "Actual"
+          const endYear1 =
+          endDate != null ? new Date(endDate1,).getFullYear() : "Actual"
+
+        const years = `${startYear} - ${endYear}`
+        const years1 = `${startYear1} - ${endYear1}`
+
+        
+
+        return (
+          <li>
+            <article>
+             
+
+              <header>
+                <div>
+                  <h3>{institution}</h3>
+                </div>
+
+                <time>{years}</time>
+              </header>
+
+              <footer>
+                <p>• {area}</p>
+                <p>• {sena2}</p>
+                <p>• {sena3}</p>
+                <p>• {sena4}</p>
+                
+              </footer>
+
+              <header>
+                <div>
+                  <h3>{institution2}</h3>
+                </div>
+
+                <time>{years1}</time>
+              </header>
+
+              <footer>
+                <p>• {udemy}</p>
+                <p>• {udemy1}</p>
+                <p>• {udemy2}</p>
+                <p>• {udemy3}</p>
+                <p>{}</p>
+                <p>{}</p>
+              </footer>
+            </article>
+          </li>
+        )
+      })
+    }
+  </ul>
+</Section>
+
+
+
+<style>
+  ul {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+  }
+
+  footer p {
+    margin-bottom: 8px;
+  } 
+
+  article h3 {
+    font-weight: 500;
+    color: #111;
+    margin-bottom: 6px;
+  }
+
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 8px;
+  }
+
+  time {
+    color: #555;
+    font-size: 0.85rem;
+    min-width: 102px;
+  }
+
+  @media (width <= 700px) {
+    time {
+      text-align: right;
+    }
+  }
+</style>
