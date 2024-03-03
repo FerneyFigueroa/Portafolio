@@ -5,8 +5,8 @@
       "image": "/photo2.webp",
       "email": "alezfigueroa@hotmail.com",
       "phone": "+57 3122304465",
-      "url": "",
-      "summary": "Tecnólogo en Análisis y Desarrollo de Sistemas de Información (ADSI) con más de un año de experiencia en el desarrollo de aplicaciones web, he tenido la oportunidad de trabajar en proyectos emocionantes que me han permitido expandir mis habilidades y conocimientos. Durante este tiempo, he adquirido experiencia en el uso de tecnologías fundamentales como HTML, CSS y JavaScript, así como en el manejo de frameworks modernos como Vue.js 3 y React. Además, cuento con experiencia en el uso de Bootstrap 5 y Tailwind CSS, herramientas populares para el desarrollo de interfaces de usuario responsivas y atractivas. Estoy comprometido con el aprendizaje continuo y la mejora constante de mis habilidades para ofrecer soluciones de calidad en el desarrollo de software.",
+      "url": "https://github.com/FerneyFigueroa",
+      "summary":"Tecnólogo en Análisis y Desarrollo de Sistemas de Información (ADSI) con más de un año de experiencia en el desarrollo de aplicaciones web. Cuento con conocimientos en HTML, CSS y JavaScript para la creación de interfaces de usuario dinámicas y atractivas. Además, tengo experiencia en el desarrollo tanto frontend como backend, utilizando tecnologías como Vue.js 3, Bootstrap 5 y Tailwind CSS para el frontend, y Node.js, MongoDB y MySQL para el backend. También estoy familiarizado con el uso de bases de datos NoSQL como Firebase Firestore. Soy competente en el control de versiones con Git, lo que me permite colaborar eficazmente en equipos y gestionar proyectos de manera eficiente",
       "location": {
         "address": "",
         "postalCode": "190001",
@@ -35,6 +35,7 @@
         "name": "VIRTUALRED",
         "position": "Junior FrontEnd y BackEnd",
         "startDate": "2022-03-01",
+        "url": "",
         "endDate":"2025-01-01",
         "summary": "Diseñé y desarrollé una página web utilizando Vue.js 3 como el principal framework para crear componentes interactivos y dinámicos. Implementé un diseño responsivo con Bootstrap 5 y utilicé Firebase como base de datos en tiempo real, con Firestore para almacenar datos y Firebase Authentication para la autenticación de usuarios. Además, empleé Vuex como gestor de estados para mantener la coherencia y la integridad de los datos en la aplicación. Logré desarrollar una página web funcional y receptiva que permitía a los usuarios registrarse, iniciar sesión y acceder a su información de forma segura.",
         "highlights": [
@@ -46,7 +47,8 @@
         "position": "FrontEnd y BackEnd",
         "startDate": "2022-03-01",
         "endDate":"2024-01-01",
-        "summary": "Desarrollado como parte del programa de aprendizaje en el SENA, consiste en una aplicación web diseñada específicamente para los aprendices, con el propósito de fomentar la educación sexual y proporcionar un acompañamiento integral con bienestar al aprendiz.Se han utilizado tecnologías modernas como Vue.js para la interfaz interactiva, Bootstrap 5 para un diseño responsivo y atractivo, SweetAlert para notificaciones amigables y Node.js junto con MySQL para la gestión de datos y la funcionalidad del backend.",
+        "url": "",
+        "summary": "Desarrollado como parte del programa de aprendizaje en el SENA, consiste en una aplicación web de uso interno diseñada específicamente para los aprendices, con el propósito de fomentar la educación sexual y proporcionar un acompañamiento integral con bienestar al aprendiz.Se han utilizado tecnologías modernas como Vue.js para la interfaz interactiva, Bootstrap 5 para un diseño responsivo y atractivo, SweetAlert para notificaciones amigables y Node.js junto con MySQL para la gestión de datos y la funcionalidad del backend.",
         "highlights": [
           ""
         ]
@@ -266,7 +268,8 @@
           "JavaScript,Nodejs",
           "En desarrollo"
         ],
-        "url": "https://virtualred-unired.netlify.app"
+        "url": "https://virtualred-unired.netlify.app",
+        "github": ""
       },
       {
         "name": "SINTAPUJOS",
@@ -279,7 +282,8 @@
           "JavaScript,Nodejs,express ",
           "En desarrollo"
         ],
-        "url": "https://sintapujos2.netlify.app"
+        "url": "https://sintapujos2.netlify.app",
+        "github": ""
       }
      
 
